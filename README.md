@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cicatrices-que-cuentan-una-historia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Cicatrices que cuentan una historia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-que-cuentan-una-historia/) |
+| **Get License** | [Request Licensing for Cicatrices que cuentan una historia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-que-cuentan-una-historia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios tienen el veneno que me cura,
+> En esta noche oscura, tú eres mi locura.
+> Baby, dejas cicatrices que cuentan una historia,
+> Y cada marca en mi piel me sabe a victoria.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
