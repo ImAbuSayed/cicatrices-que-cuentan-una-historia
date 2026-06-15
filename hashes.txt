@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cicatrices que cuentan una historia
+
+This log tracks the cryptographic history and versioning for the song **Cicatrices que cuentan una historia** (cicatrices-que-cuentan-una-historia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:13:00.808390 | `v1` | `2e6739a2e423b15f39997cc386b406693c7df0548d3b44cba5ca2f75671ab1a8` | `1483ec1376da7418974dcdbaf35abd2c2dec1f9c60a9993387fda403655a5157` | `2026-06-15_cicatrices-que-cuentan-una-historia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
